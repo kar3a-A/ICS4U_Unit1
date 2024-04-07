@@ -59,3 +59,4 @@ n_terms = int(input("Enter the number of terms: "))
 print(f"Fibonacci sequence up to {n_terms} terms:")
 for i in range(n_terms):
     print(fibonacci_recursive(i), end=" ")
+    
