@@ -2,8 +2,13 @@
 # Modular Programming:
 '''
 Modular programming is the process of subdividing a computer program into separate sub-programs. 
-A module is a separate software component. It can often be used in a variety of applications and functions with other components of the system. Similar functions are grouped in the same unit of programming code and separate functions are developed as separate units of code so that the code can be reused by other applications and it is also easy to spot and fix errors. 
-Example : Consider a program for a banking system. Instead of writing the entire code in a single block, you can create modules like "Account Management," "Transaction Processing," and "User Authentication." Each module handles a specific aspect of the overall system.
+A module is a separate software component. It can often be used in a variety of applications and 
+functions with other components of the system. Similar functions are grouped in the same unit of 
+programming code and separate functions are developed as separate units of code so that the code 
+can be reused by other applications and it is also easy to spot and fix errors. 
+Example : Consider a program for a banking system. Instead of writing the entire code in a single block,
+you can create modules like "Account Management," "Transaction Processing," and "User Authentication." 
+Each module handles a specific aspect of the overall system.
 
 '''
 
